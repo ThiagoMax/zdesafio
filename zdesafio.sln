@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.31613.86
+VisualStudioVersion = 16.0.32630.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RWANU", "RestWithASPNetUdemy\RWANU.csproj", "{FD8765C3-FDA9-402E-A57C-586A55CDFCCF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioTM", "DesafioTM\DesafioTM.csproj", "{0C144B0A-CE0D-452A-80E2-A000BAED2EE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FD8765C3-FDA9-402E-A57C-586A55CDFCCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FD8765C3-FDA9-402E-A57C-586A55CDFCCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FD8765C3-FDA9-402E-A57C-586A55CDFCCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FD8765C3-FDA9-402E-A57C-586A55CDFCCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C144B0A-CE0D-452A-80E2-A000BAED2EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C144B0A-CE0D-452A-80E2-A000BAED2EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C144B0A-CE0D-452A-80E2-A000BAED2EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C144B0A-CE0D-452A-80E2-A000BAED2EE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A27E281D-27A0-4E77-B814-9E2DD5BA90B9}
+		SolutionGuid = {7CAFBF05-840A-4B49-B5FE-938AF328E378}
 	EndGlobalSection
 EndGlobal
